@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    margin-top: 50px;
+    flex-direction: column;
+    background-color: #91f148;
+    color: #0b3c0d;
+}
+button{
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    background-color: #040404;
+    color: #52e257;
+    border: none;
+    cursor: pointer;
+}
