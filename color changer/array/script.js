@@ -35,9 +35,9 @@ let products = [
 ];
 console.log(products[1].name);
 console.log(products[2].price);
-for(int i=1;i<products.length();i++){
+for(let i=1;i<products.length();i++){
     console.log(products[i].name);
 }
-for(int i=1;i<products.length();i++){
+for(let i=1;i<products.length();i++){
     console.log(products[i].price);
 }
